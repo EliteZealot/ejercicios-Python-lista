@@ -1,0 +1,2 @@
+# ejercicios-Python-lista
+practica 
